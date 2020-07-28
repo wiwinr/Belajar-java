@@ -1,0 +1,7 @@
+Tipe data 
+Number = 123456456
+String ="hello world"/'hello world'
+Boolean
+Object
+Function
+Undefined

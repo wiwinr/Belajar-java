@@ -1,0 +1,1 @@
+"number in javascript are double-precision FLOATING POINT 64-BIT format IEEE 754 values"
